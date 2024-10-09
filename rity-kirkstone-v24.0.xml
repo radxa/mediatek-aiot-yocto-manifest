@@ -8,8 +8,8 @@
 
 	<default revision="kirkstone" />
 
-	<project name="meta-rity.git" path="src/meta-rity" remote="rity" revision="refs/tags/rity-kirkstone-v24.0" />
-	<project name="meta-mediatek-bsp.git" path="src/meta-mediatek-bsp" remote="radxa" revision="5cf00bc7ccb5dcdd20c195b0b12752200b76c09e" />
+	<project name="meta-rity.git" path="src/meta-rity" remote="radxa" revision="337bdbffd9913fa602f6071be930696781279ad8" />
+	<project name="meta-mediatek-bsp.git" path="src/meta-mediatek-bsp" remote="radxa" revision="fe2acf08be180a1dd1a15764edafa94f8a9be819" />
 	<project name="meta-mediatek-tsn.git" path="src/meta-mediatek-tsn" remote="rity" revision="refs/tags/rity-kirkstone-v24.0" />
 	<project name="meta-mediatek-demo.git" path="src/meta-mediatek-demo" remote="rity" revision="refs/tags/rity-kirkstone-v24.0" />
 	<project name="meta-mediatek-bluedroid.git" path="src/meta-mediatek-bluedroid" remote="rity" revision="refs/tags/rity-kirkstone-v24.0" />

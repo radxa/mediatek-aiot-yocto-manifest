@@ -18,12 +18,6 @@ $ TEMPLATECONF=$PWD/src/meta-rity/meta/conf source src/poky/oe-init-build-env
 $ export BUILD_DIR=`pwd`
 ```
 
-Enable components that require NDA access (optional).
-
-```
-$ echo NDA_BUILD = \"1\" >> ${BUILD_DIR}/conf/local.conf
-```
-
 Setup paths for downloads and sstate-cache folders.
 
 ```
